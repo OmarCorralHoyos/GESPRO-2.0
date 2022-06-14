@@ -1,0 +1,42 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#tbPro{
+    border: solid 1px white;
+    display: grid;
+    grid-template-columns: 6fr 5fr;
+
+}
+
+#tbPro .formPro{
+    width: 95%;
+    border: solid 1px white;
+    margin: 1% auto;
+    padding: 5% 5% 5% 10%;
+}
+
+.formPro p{
+    padding-bottom:2%;
+    padding-top: 2%;
+}
+
+table{
+    border: solid 2px white;
+    border-collapse:collapse;
+    width: 90%;
+    margin: 5% auto;
+    
+}
+
+table td{
+    border: solid 0.5px white;
+    padding: 2px;
+
+}
+table th{
+    border: solid 0.5px white;
+    padding: 2px;
+    
+}
